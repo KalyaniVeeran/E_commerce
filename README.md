@@ -1,6 +1,6 @@
 DJANGO E_COMMERCE-shop_kart:
 
-      This is an E-commerce website developed mainly to focus on Django following along the justdjango channel. I used a free template from bootstrap5 and developed most common features that an usual E-commerce website contains.  The database I am using is the default django's Sqlite.
+      This is an E-commerce website developed mainly to focus on Django following along the justdjango channel. I used a free template from bootstrap5 ,frontend technology like HTML,CSS and developed most common features that an usual E-commerce website contains.  The database I am using is the default django's Sqlite.
       
 FEATURES:
 
